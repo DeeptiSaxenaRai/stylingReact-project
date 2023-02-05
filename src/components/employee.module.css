@@ -1,0 +1,12 @@
+/* Set Employee block */
+.employee {
+  display: inline-block;
+  width: 200px;
+  background-color: var(--color-secondary);
+  color: var(--color-primary);
+}
+/* To set image size */
+.image {
+  width: 120px;
+  height: 180px;
+}

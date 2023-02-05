@@ -1,0 +1,7 @@
+/* Design basic skills of employee */
+.basicSkill {
+  max-width: 100%;
+  background-color: var(--color-secondary);
+  height: 20px;
+  padding: 10px;
+}
